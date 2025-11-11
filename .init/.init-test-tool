@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/user-notes-manager-222144-222154/notes_backend"
+}
